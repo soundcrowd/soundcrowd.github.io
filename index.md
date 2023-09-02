@@ -1,4 +1,4 @@
-## SoundCrowd music player for android
+## SoundCrowd music player for Android
 
 SoundCrowd is a free, open-source and lightweight music player for Android in modern material design, specialized for playing long music tracks (DJ mix, live sets, audio books).
 
